@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Christmas Tree",
+  "description": "A cinematic, interactive 3D Christmas tree controlled by hand gestures. Use your webcam to expand, collapse, and rotate the tree.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
